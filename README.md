@@ -19,3 +19,6 @@ in the `data` folder.
 
 The `stats` folder contains couple of custom functions taken from
 [another repository](https://github.com/akononovicius/python-stats).
+
+**Licensing:** The scripts, scraped and generated data are made available under
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
