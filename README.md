@@ -13,6 +13,9 @@ with `data-transform.py`
 1. Explore the first passage times (streak lengths) of the original data in
 comparison with some random models with `data-analyze-passage-times.ipynb`.
 1. Run shuffle the original data to obtain 95% CIs for H with `data-shuffle-\*.py`
+1. Explore the autocorrelation functions of the original data in comparison to the
+autocorrelation fucntion of the shuffled data with `data-analyze-correlation.ipyb`
+(total shuffle) and `data-analyze-correlation-inseason.ipynb` (in-season shuffle).
 
 Note that we have also shared the `.csv` files we have obtained. These are stored
 in the `data` folder.
