@@ -1,8 +1,7 @@
 # Illusion of persistence in NBA 1995-2018 regular season data
 
-In this repository we provide the code and the data behind the forthcoming paper
-"Illusion of persistence in NBA 1995-2018 regular season data" (by A. Kononovicius).
-The link to the paper will be soon.
+In this repository we provide the code and the data behind the paper
+"Illusion of persistence in NBA 1995-2018 regular season data" [1].
 
 The order in which files should be run in order to reproduce (or obtain similar)
 results:
@@ -25,3 +24,10 @@ The `stats` folder contains couple of custom functions taken from
 
 **Licensing:** The scripts, scraped and generated data are made available under
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## References
+
+[1] A. Kononovicius. *Illusion of persistence in NBA 1995-2018 regular season data*.
+Physica A **520**: 250-256 (2019). doi:
+[10.1016/j.physa.2019.01.039](https://dx.doi.org/10.1016/j.physa.2019.01.039).
+arXiv: [1810.03383 [physics.soc-ph]](https://arxiv.org/abs/1810.03383).
